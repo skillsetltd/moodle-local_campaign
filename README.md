@@ -1,2 +1,3 @@
-# moodle-local_campaign
-Moodle campaign pages plugin
+# Moodle campaign pages plugin
+
+The Moodle campaign pages plpugin is .............
